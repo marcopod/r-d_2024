@@ -6,6 +6,13 @@ This repository contains all the necessary files and scripts to use and test the
 
 ## How to Use the Model
 
+### testing.py
+Access `python testing.py` to use models that have already been trained and follow a custom example
+
+# Training
+
+If you want to train the model in a different way
+
 ### Option 1: Run the Python Script
 1. Navigate to the `code` folder.
 2. Run the training script with the following command:

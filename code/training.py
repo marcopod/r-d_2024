@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 from dataset import TextDataset
 from torch.utils.data import DataLoader
-from models import obfuscator, deobfuscator
+from model_architecture import obfuscator, deobfuscator
 
 # Hyperparameters
 embed_dim = 64
